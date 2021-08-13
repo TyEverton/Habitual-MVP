@@ -18,7 +18,7 @@ The app I will build is going to be an app that will help users build habits.
 
 
 #### USER EXPERIENCE
-* Users can create accounts 
+* Users can create an account
 * Users can log in
 * Users can log out 
 * Users can add habits
