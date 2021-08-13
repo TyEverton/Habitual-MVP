@@ -39,6 +39,7 @@ The app I will build is going to be an app that will help users build habits.
 * App will share challenges that other users have created
   * Users who created the app will be able to share a Facebook group for the challenge
   * App will display a hyperlink for the Facebook group
+* App will be mobile friendly
  
   
 
