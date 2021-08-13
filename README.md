@@ -28,7 +28,7 @@ The app I will build is going to be an app that will help users build habits.
 * Users can add progress daily by clicking a check mark
 * Users can leave notes as to how they are feeling with each habit 
 * Users can let the app know that they missed a day by clicking an x
-* Users can track their progression as a percentage / loading bar (based on doing something every day for 66 days)<br /><br />
+* Users can track their progression as a percentage / loading bar (based on doing something every day for 66 days)
 
 
 
